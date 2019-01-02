@@ -3,5 +3,5 @@ Reti neuronali deep learning per la classificazione di immagini utilizzando Pyto
 
 Deep learning neuronal networks to classify images using Pytorch.
 
-1) [Deep learning to classify Fashion-MNIST dataset images](../blob/master/Fashion-MNIST classification)
+1) [Deep learning ](../master/Fashion-MNIST classification)
       
