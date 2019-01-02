@@ -1,5 +1,5 @@
 # Deep-Learning
-Deep learning neuronal networks to classify images using Pytorch.
+**Deep learning Neuronal Networks to classify images using Pytorch.**
 
 Reti neuronali deep learning per la classificazione di immagini utilizzando Pytorch.
 
